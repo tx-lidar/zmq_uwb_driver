@@ -1,0 +1,4 @@
+<launch>
+<node pkg="zmq_uwb_driver" type="uwb_node" name="uwb_node" output="screen"/>
+
+</launch>
